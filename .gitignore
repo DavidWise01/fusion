@@ -1,0 +1,4 @@
+fusion_leaves.json
+__pycache__/
+*.pyc
+.DS_Store
